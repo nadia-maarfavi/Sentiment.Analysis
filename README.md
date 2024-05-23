@@ -1,7 +1,10 @@
 # Sentence Sentiment Analysis
 This repository contains three different approaches for performing sentiment analysis on sentences. Each approach utilizes a different model or service:
+
 **1. BERT (BertKtrain.ipynb)**
+
 **2. Google Cloud NLP API (GoogleCloudAPI.ipynb)**
+
 **3. XLNet (XLNet_Transformers.ipynb)**
 
 ## Introduction
