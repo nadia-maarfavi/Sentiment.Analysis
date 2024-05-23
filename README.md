@@ -62,7 +62,9 @@ export GOOGLE_APPLICATION_CREDENTIALS="path/to/your/service-account-file.json"
 Each notebook is self-contained and includes instructions for loading data, preprocessing, and running sentiment analysis.
 
 BertKtrain.ipynb: Open the notebook and follow the steps to train and evaluate the BERT model using ktrain.
+
 GoogleCloudAPI.ipynb: Follow the instructions to use the Google Cloud NLP API for sentiment analysis.
+
 XLNet_Transformers.ipynb: Use the notebook to implement and run sentiment analysis with the XLNet model using Hugging Face's transformers library.
 
 ## Contributing
